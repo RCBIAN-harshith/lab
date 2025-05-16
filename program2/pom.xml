@@ -34,7 +34,8 @@
         <archive>
           <manifest>
            
-            <mainClass>program10.program1024.App</mainClass>
+            <mainClass>com.chirag.program2.App</mainClass>
+
           </manifest>
         </archive>
       </configuration>
